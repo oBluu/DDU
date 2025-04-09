@@ -5,4 +5,6 @@ Projectet er et 2D Pacman spil, der anvender YoloV8 ai's human detection, til at
 
 
 Her er et billede af spillet.
+
+
 ![image](https://github.com/user-attachments/assets/321cbbeb-0589-4839-9394-d092648d2369)
